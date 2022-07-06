@@ -108,9 +108,6 @@
 
 	</div>
 
-	<br>
-
-	<p>Taylor swift, amet consectetur, adipisicing elit. Quia perferendis voluptatum dolores est tempore autem magnam non animi temporibus aliquam, ex doloribus assumenda nobis sint mollitia perspiciatis sit impedit? Voluptas?13131313</p>
 
 
 	<script src="https://cdn.jsdelivr.net/npm/sweetalert2@9"></script>
