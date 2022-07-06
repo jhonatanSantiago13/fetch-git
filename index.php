@@ -110,7 +110,7 @@
 
 	<br>
 
-	<p>Lorem ipsum dolor sit, amet consectetur, adipisicing elit. Quia perferendis voluptatum dolores est tempore autem magnam non animi temporibus aliquam, ex doloribus assumenda nobis sint mollitia perspiciatis sit impedit? Voluptas?</p>
+	<p>Dua Lipa, amet consectetur, adipisicing elit. Quia perferendis voluptatum dolores est tempore autem magnam non animi temporibus aliquam, ex doloribus assumenda nobis sint mollitia perspiciatis sit impedit? Voluptas? 1111111111</p>
 
 	<script src="https://cdn.jsdelivr.net/npm/sweetalert2@9"></script>
 	<script src="js/funciones.js"></script>
