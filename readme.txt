@@ -7,5 +7,6 @@ git add. > preprarar todo el proyectoi para el area de repo
 git commit -m "nombre del commit" > tomar una fotografia del proyecto
 git log --oneline > muestra una lista de los commits
 git reset --hard id del comit > regresar al comit
-git push > subir a la nube 
+git push > subir a la nube
 git pull > traer los cambios de github al proyecto local
+git tag nombre del tag -m "descripción" > agregar un tag al proyecto
