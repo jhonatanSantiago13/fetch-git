@@ -16,6 +16,7 @@ git branch nombre de la rama > crear rama
 git checkout nombre de la rama > nos movemos de la rama
 git branch > muestra en que rama estamos
 git merge nombre de la rama > para unir el código de la rama con la rama master(main)
+git merge origin/nombre de la rama > para unir el codigo con la rama master en remoto
 git branch -d nombre de la rama > eliminar rama
 
 https://www.youtube.com/watch?v=GG4mftkQVrs&list=PLPl81lqbj-4I8i-x2b5_MG58tZfgKmJls&index=4
